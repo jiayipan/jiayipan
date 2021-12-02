@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 --><img align="right" src="https://count.getloli.com/get/@:jiayipan?theme=rule34">
 
 
-
-
 ### **Email：**
 
 -   <a href="http://www.sysu.edu.cn/cn/"><code><img height="90" width="120" src="./sch.jpg"></code></a>：panjy59@mail2.sysu.edu.cn
@@ -30,7 +28,6 @@ Here are some ideas to get you started:
 ### Github Activity
 
 [![](https://activity-graph.herokuapp.com/graph?username=jiayipan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiayipan)
 
