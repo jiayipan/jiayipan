@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><img align="right" src="https://count.getloli.com/get/@:jiayipan?theme=rule34">
 
-## master-panjy
+## panjy
 
 ### **Email：**
 
