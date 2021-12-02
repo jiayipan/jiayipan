@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### **Email：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
 
 -   <a href="http://www.sysu.edu.cn/cn/"><code><img height="90" width="120" src="./sch.jpg"></code></a>：panjy59@mail2.sysu.edu.cn
 
