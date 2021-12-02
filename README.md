@@ -1,9 +1,9 @@
 ### Hi there 👋 panjy
 
+
+![jiayipan's github stats](https://github-readme-stats.vercel.app/api?username=jiayipan&show_icons=true&theme=vue)
 <!--
 **jiayipan/jiayipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![jiayipan's github stats](https://github-readme-stats.vercel.app/api?username=jiayipan&show_icons=true&theme=vue)
-
 --><img align="right" src="https://count.getloli.com/get/@:jiayipan?theme=rule34">
 
 
