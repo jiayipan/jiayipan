@@ -15,7 +15,7 @@
 
 ### Code
 [![mist](https://github-readme-stats.vercel.app/api/pin/?username=jiayipan&repo=MIST-net)](https://github.com/jiayipan/MIST-net)
-<br><br>
+<br>
 
 ### Github Activity
 
