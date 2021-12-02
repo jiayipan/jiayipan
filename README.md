@@ -1,5 +1,5 @@
 ### Hi there 👋 panjy
-
+![jiayipan's github stats](https://github-readme-stats.vercel.app/api?username=jiayipan&show_icons=true&theme=vue)
 <!--
 **jiayipan/jiayipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### Github Activity
 
 [![](https://activity-graph.herokuapp.com/graph?username=jiayipan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![jiayipan's github stats](https://github-readme-stats.vercel.app/api?username=jiayipan&show_icons=true&theme=vue)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiayipan)
 
